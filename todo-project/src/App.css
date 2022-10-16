@@ -1,0 +1,31 @@
+
+.todo1{
+  width: 600px;
+  
+}
+body{
+  background-image: url(../images/unnamed.png);
+  background-repeat: no-repeat;
+  background-size: 100%,100%;
+}
+.card{
+
+  width: 500px;
+  margin: 20px auto;
+}
+.typebox{
+  margin-left:500px ;
+}
+.title{
+  justify-content: center;
+  text-align: center;
+  font-size: 50px;
+ 
+  margin-left: 500px;
+  font-style: italic;
+  background-color: rgba(0, 255, 255, 0.583);
+  border-radius: 40px;
+}
+.btn-danger:hover{
+  transform: scale(1.2);
+}
